@@ -10,6 +10,7 @@ namespace Test_Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hey man, what up?");
         }
     }
 }
