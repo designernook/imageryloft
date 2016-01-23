@@ -1,0 +1,6 @@
+C:\Users\Public\Repos\imageryloft\Test Console\bin\Debug\Test Console.exe.config
+C:\Users\Public\Repos\imageryloft\Test Console\bin\Debug\Test Console.exe
+C:\Users\Public\Repos\imageryloft\Test Console\bin\Debug\Test Console.pdb
+C:\Users\Public\Repos\imageryloft\Test Console\obj\Debug\Test Console.csprojResolveAssemblyReference.cache
+C:\Users\Public\Repos\imageryloft\Test Console\obj\Debug\Test Console.exe
+C:\Users\Public\Repos\imageryloft\Test Console\obj\Debug\Test Console.pdb
